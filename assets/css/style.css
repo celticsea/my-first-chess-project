@@ -47,7 +47,7 @@ overflow : hidden;
 #club-ajedrez {
 height : 100%;
 width : 100%;
-background : url("../images/ChessImage.jpg") center center no-repeat;
+background : url("../css/images/ChessImage.jpg") center center no-repeat;
 margin-left : 10px;
 text-align : center;
 }
