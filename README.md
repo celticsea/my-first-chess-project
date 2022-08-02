@@ -30,4 +30,20 @@ The design for this project came from ”Love Running” project, and the idea c
 https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&checkerrorpages=yes&useragent=Validator.nu%2FLV+http%3A%2F%2Fvalidator.w3.org%2Fservices&acceptlanguage=&doc=https%3A%2F%2Fcelticsea.github.io%2Fmy-first-chess-project%2F
 
 * CSS
-http://jigsaw.w3.org/css-validator/check/referer 
+https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fcelticsea.github.io%2Fmy-first-chess-project%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=es#warnings
+
+Note: The errores correspond to the library used not from the source code of this project
+
+
+# Content
+
+1. The image used is of my daughters and their chess teacher and was taken by my husband.
+2. The chess store page is also our property, it is only used as an example, but in the near future we will make a store in English.
+3. The texts are created with own ideas.
+4. The icons have been taken from Font Awesome only free icons
+5. The social media is inspirate from Love Runing project
+6. Some ideas for this project were taken from the sample projects in the videos for the elaboration of the project.
+7. 
+8. 
+
+
