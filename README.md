@@ -30,4 +30,4 @@ The design for this project came from ”Love Running” project, and the idea c
 https://validator.w3.org/nu/?showsource=yes&showoutline=yes&showimagereport=yes&checkerrorpages=yes&useragent=Validator.nu%2FLV+http%3A%2F%2Fvalidator.w3.org%2Fservices&acceptlanguage=&doc=https%3A%2F%2Fcelticsea.github.io%2Fmy-first-chess-project%2F
 
 * CSS
-https://jigsaw.w3.org/css-validator/validator
+http://jigsaw.w3.org/css-validator/check/referer 
