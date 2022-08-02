@@ -1,4 +1,4 @@
-# Chess Club
+# The Chess Club
 
 
 
