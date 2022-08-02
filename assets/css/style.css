@@ -1,53 +1,193 @@
-@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300&family=Ubuntu:wght@300&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300&family=Ubuntu:wght@300&display=swap') ;
 * {
-    margin: 0;
-    padding: 0;
-    border: none;
+margin : 0;
+padding : 0;
+border : none;
 }
-
 body {
-    font-family: Ubuntu, 'Courier New', Courier, monospace;
-    font-weight: 300;
-    color: #3a3a3a;
+font-family : Ubuntu, 'Courier New', Courier, monospace;
+font-weight : 300;
+color : #3a3a3a;
 }
-
-/*headings and logo*/
-
 h1, h2 {
-     font-family: Ubuntu, 'Courier New', Courier, monospace;
-     text-transform: uppercase;
-     letter-spacing: 1px;
-     color: rgb(38, 14, 65);
+font-family : Ubuntu, 'Courier New', Courier, monospace;
+letter-spacing : 1px;
+color : purple;
+font-weight : bold;
 }
-
 #logo {
-    float: left;
-    font-size: 200%;
+float : left;
+font-size : 200%;
+margin-left : 20px;
 }
-
-/**Navigation links**/
-
 #menu {
-    font-size: 100%;
-    letter-spacing: 2px;
+font-size : 150%;
+letter-spacing : 2px;
 }
-
 #menu, #logo {
-    line-height: 75px;
+line-height : 75px;
 }
-
-#menu li{
-    float: right;
-    list-style-type: none;
-    margin-right: 30px;
+#menu li {
+float : right;
+list-style-type : none;
+margin-right : 30px;
 }
-
-#menu a{
-    text-decoration: none;
-    color: inherit;
+#menu a {
+text-decoration : none;
+color : inherit;
 }
-
 #menu a:hover {
-    border-bottom: 2px solid #3a3a3a;
+border-bottom : 2px solid purple;
+}
+#club-outer {
+height : 700px;
+width : 100%;
+overflow : hidden;
+}
+#club-ajedrez {
+height : 100%;
+width : 100%;
+background : url("../images/ChessImage.jpg") center center no-repeat;
+margin-left : 10px;
+text-align : center;
+}
+#cover-text h2 {
+color : orangered;
+font-size : 200%;
+}
+#cover-text p {
+color : purple;
+}
+#cover-text {
+font-size : 125%;
+font-family : Ubuntu, 'Courier New', Courier, monospace;
+letter-spacing : 2px;
+width : 250px;
+height : 100px;
+padding-top : 80px;
+text-align : center;
+margin-left : auto;
+margin-right : auto;
+}
+#about-us h2 {
+text-align : left;
+color : white;
+font-size : 200%;
+margin-left : 20px;
+}
+#about-us {
+background-color : orangered;
+}
+#about-us {
+margin-left : 10px;
+color : white;
+}
+#about-us h3 {
+color : white;
+margin-left : 20px;
+}
+#about-us ul {
+margin-left : 35px;
+font-size : 140%;
+}
+#about-us h4 {
+font-size : 125%;
+margin-left : 20px;
+text-align : left;
+}
+#schedule {
+text-align : center;
+font-size : 150%;
+}
+#table, th, td {
+border : orangered solid 1px;
+letter-spacing : 10px;
+padding : 10px;
+text-align : center;
+}
+#table {
+margin-left : auto;
+margin-right : auto;
+}
+#contact-us {
+background-color : orangered;
+margin-left : auto;
+margin-right : auto;
+text-align : center;
+font-size : x-large;
+}
+#contact-us h2, h3 {
+color : white;
+text-align : center;
+}
+.text-input {
+background-color : white;
+color : orangered;
+width : 42%;
+height : 30px;
+margin : 5px 0 20px 0;
+border : black solid 3px;
+border-radius : 2px;
+text-align : left;
+}
+.text-input:hover {
+border-color : orangered;
+text-align : left;
+}
+.join-button {
+background-color : purple;
+border : none;
+color : white;
+padding : 15px 32px;
+text-align : center;
+text-decoration : none;
+display : inline-block;
+font-size : 16px;
+}
+.join-button:hover {
+background-color : #fafafa;
+color : #3b20b3;
+text-align : center;
+}
+footer {
+height : 500px;
+}
+.social-networks {
+text-align : center;
+}
+.social-networks li {
+display : inline;
+}
+.social-networks i {
+font-size : 260%;
+margin : 1%;
+padding : 5%;
+}
+.footer-bottom {
+color : purple;
+background-color : white;
+font-size : 150%;
+line-height : 75px;
+text-align : center;
+}
+@media screen and (max-width: 1200px) {
+#club-ajedrez {
+width : 100%;
+height : 1200px;
+}
+}
+@media screen and (max-width: 950px) {
+#menu {
+clear : left;
+float : left;
+margin-left : 30px;
+margin-bottom : 20px;
+line-height : 25px;
+}
+#cover-text h2 {
+margin-top : 70%;
+}
+#cover-text p {
+margin-top : 10%;
+}
 }
