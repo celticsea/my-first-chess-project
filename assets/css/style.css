@@ -191,3 +191,27 @@ margin-top : 70%;
 margin-top : 10%;
 }
 }
+/* Screen sizes from 0px to 480px */
+@media screen and (min-width: 0px) and (max-width: 480px){
+    #menu {
+        font-size: 75%;
+        }
+    #club-ajedrez {
+        width: 100px;
+    }
+    #cover-text h2 {
+            font-size: 3.6vw;
+            }
+    #cover-text p {
+            font-size: 3.6vw;
+            }
+    #cover-text{
+        width: 100px;
+    }
+    #table {
+        width: 100px;
+    }
+    
+        
+
+}
