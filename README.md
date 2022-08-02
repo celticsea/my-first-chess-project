@@ -13,7 +13,7 @@ This is a page of easy access for both parents and children, adolescents and adu
 
 # Features
 
-The website contains a home page with four sections and links are to the right: About Us, Schedule, Shop and Contact Us, which link to different sections of the same page; only the shop opens on a different page (I used the page of a chess store that we have in Mexico just to use an example of how it would be)
+The website contains a home page with four sections and links are to the right: About Us, Schedule, Shop and Contact Us, which link to different sections of the same page; only the shop opens on a different page (I used the page of an online chess store that I owe to use an example of how it would be)
 
 
 # Design
