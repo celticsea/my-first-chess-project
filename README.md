@@ -17,7 +17,7 @@ The website contains a home page with four sections and links are to the right: 
 
 
 # Design
-The design for this project came from ”Love Running” project, and the idea comes from the fact that I want to open a chess club here with its store of products since in Mexico we manufacture and sell and we see great potential here, as I was carrying out the "Love running" project, the desire to start it grew here.
+The design for this project came from ”Love Running” project, and the idea comes from the fact that I want to open a chess club in Ireland with its store of chess products. I see a great potential here.
 
 # Technologies
 
@@ -43,7 +43,9 @@ Note: The errores correspond to the library used not from the source code of thi
 4. The icons have been taken from Font Awesome only free icons
 5. The social media is inspirate from Love Runing project
 6. Some ideas for this project were taken from the sample projects in the videos for the elaboration of the project.
-7. 
-8. 
+
+# Bugs or Improvements
+Please send your request by add a comment on this project.
+
 
 
