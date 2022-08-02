@@ -16,5 +16,13 @@ This is a page of easy access for both parents and children, adolescents and adu
 The website contains a home page with four sections and links are to the right: About Us, Schedule, Shop and Contact Us, which link to different sections of the same page; only the shop opens on a different page (I used the page of a chess store that we have in Mexico just to use an example of how it would be)
 
 
+# Design
+The design for this project came from ”Love Running” project, and the idea comes from the fact that I want to open a chess club here with its store of products since in Mexico we manufacture and sell and we see great potential here, as I was carrying out the "Love running" project, the desire to start it grew here.
 
-#Texting Validation
+# Technologies
+
+1. HTML5
+2. CSS
+
+# Validator Testing
+
